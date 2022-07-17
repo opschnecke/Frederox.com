@@ -18,10 +18,3 @@
 	--vp-c-brand-light: #9934eb;
 	--vp-c-brand-lighter: #b749e3;
 }
-
-@media (min-width: 960px) :root {
-	--vp-home-hero-image-filter: blur(72px);
-}
-@media (min-width: 640px) :root {
-	--vp-home-hero-image-filter: blur(56px);
-}
