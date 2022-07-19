@@ -1,9 +1,6 @@
 # Our Team
 
 <VPTeamMembers size="small" :members="members" />
-
-(Some icons may not be correct, since vitepress does not yet support custom icons)
-
 <script setup>
 import { VPTeamMembers } from 'vitepress/theme'
 
