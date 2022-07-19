@@ -1,6 +1,7 @@
 # Our Team
 
 <VPTeamMembers size="small" :members="members" />
+
 <script setup>
 import { VPTeamMembers } from 'vitepress/theme'
 
