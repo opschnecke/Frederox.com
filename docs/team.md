@@ -14,7 +14,7 @@ const members = [
   {
     avatar: 'https://avatars.githubusercontent.com/u/69014593',
     name: 'FrederoxDev',
-    title: 'Creator',
+    title: 'Project Lead',
     links: [
       { icon: 'github', link: 'https://github.com/FrederoxDev' },
       { icon: 'twitter', link: 'https://twitter.com/FrederoxDev' }
@@ -25,8 +25,7 @@ const members = [
     name: "opschnecke",
     title: "German Translations",
     links: [
-      { icon: "github", link: "https://github.com/opschnecke" },
-      { icon: "twitter", link: "https://schneckengames.xyz/" }
+      { icon: "github", link: "https://github.com/opschnecke" }
     ]
   },
   {
