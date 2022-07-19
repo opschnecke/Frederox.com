@@ -30,6 +30,14 @@ const members = [
     ]
   },
   {
+    avatar: "https://avatars.githubusercontent.com/u/109596011",
+    name: "Fawn24",
+    title: "French Translations",
+    links: [
+      { icon: "github", link: "https://github.com/Fawn24" },
+    ]
+  },
+  {
     avatar: "https://avatars.githubusercontent.com/u/109593841",
     name: "Zorhu",
     title: "Russian Translations",
