@@ -17,6 +17,9 @@ export default {
         },
         nav: [
             { text: "Cosmos", link: "/introduction" },
-        ]
+        ],
+        editLink: {
+          pattern: "https://github.com/FrederoxDev/Frederox.com/edit/master/docs/:path"
+        }
     }
 }
