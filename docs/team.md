@@ -41,6 +41,11 @@ const members = [
     links: [
       { icon: "github", link: "https://github.com/Sonichec0" },
     ]
+  },
+  {
+    avatar: "https://cdn.discordapp.com/avatars/740594647461658697/9c947d74fb918f0340f3fe446954c6f2.webp",
+    name: "Kurama",
+    title: "Italian Translations"
   }
 ]
 </script>
