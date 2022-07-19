@@ -30,9 +30,12 @@ const members = [
     ]
   },
   {
-    avatar: "",
+    avatar: "https://avatars.githubusercontent.com/u/109593841",
     name: "Zorhu",
-    title: "Russian Translations"
+    title: "Russian Translations",
+    links: [
+      { icon: "github", link: "https://github.com/Sonichec0" },
+    ]
   }
 ]
 </script>
