@@ -10,7 +10,7 @@ const members = [
   // When finished, change opschneckles "twitter" to a web icon
 
   {
-    avatar: 'https://avatars.githubusercontent.com/u/69014593',
+    avatar: 'https://avatars.githubusercontent.com/u/69014593?size=100',
     name: 'FrederoxDev',
     title: 'Project Lead',
     links: [
@@ -19,7 +19,7 @@ const members = [
     ]
   },
   {
-    avatar: "https://avatars.githubusercontent.com/u/80198925",
+    avatar: "https://avatars.githubusercontent.com/u/80198925?size=100",
     name: "opschnecke",
     title: "German Translations",
     links: [
@@ -27,7 +27,7 @@ const members = [
     ]
   },
   {
-    avatar: "https://avatars.githubusercontent.com/u/109596011",
+    avatar: "https://avatars.githubusercontent.com/u/109596011?size=100",
     name: "Fawn24",
     title: "French Translations",
     links: [
@@ -35,7 +35,7 @@ const members = [
     ]
   },
   {
-    avatar: "https://avatars.githubusercontent.com/u/109593841",
+    avatar: "https://avatars.githubusercontent.com/u/109593841?size=100",
     name: "Sonichec0",
     title: "Russian Translations",
     links: [
@@ -43,7 +43,7 @@ const members = [
     ]
   },
   {
-    avatar: "https://cdn.discordapp.com/avatars/740594647461658697/9c947d74fb918f0340f3fe446954c6f2.webp",
+    avatar: "https://cdn.discordapp.com/avatars/740594647461658697/9c947d74fb918f0340f3fe446954c6f2.webp?size=100",
     name: "Kurama",
     title: "Italian Translations"
   }
