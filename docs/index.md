@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /introduction
+      link: /main/team
     - theme: alt
       text: View on GitHub
       link: https://github.com/FrederoxDev/Cosmos-Genesis

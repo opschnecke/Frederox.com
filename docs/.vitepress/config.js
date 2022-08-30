@@ -3,16 +3,19 @@ export default {
     themeConfig: {
         sidebar: [
             {
-                text: "Introduction",
+                text: "Cosmos",
+                activeMatch: "/main/",
                 items: [
-                    { text: "Home Page", link: "/" },
-                    { text: "Our Team", link: "/team" }
+                    { text: "Home Page", link: "/index" },
+                    { text: "Team", link: "/main/team" }
                 ]
             },
             {
-                "text": "Modding",
-                "items": [
-                    { text: "Custom Biomes", link: "/mods/biome" }
+                text: "Mods",
+                activeMatch: "/mods/",
+                items: [
+                    { text: "Generator", link: "/mods/generator" },
+                    { text: "Biome", link: "/mods/biome" }
                 ]
             }
         ],
@@ -21,7 +24,16 @@ export default {
             copyright: 'Copyright © 2022-present FrederoxDev'
         },
         nav: [
-            { text: "Team", link: "/team" },
+            {
+                text: "Cosmos",
+                activeMatch: "/main/",
+                link: "/main/team"
+            },
+            {
+                text: "Mods",
+                activeMatch: "/mods/",
+                link: "/mods/generator"
+            }
         ],
         editLink: {
           pattern: "https://github.com/FrederoxDev/Frederox.com/edit/master/docs/:path"

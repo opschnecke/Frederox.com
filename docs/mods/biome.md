@@ -18,9 +18,7 @@ interface Biome {
 }
 ```
 
-<hr />
-
-# Flora
+## Flora
 Flora is the most simple type of feature, it can be used to place single blocks on the surface, useful for flowers or grass
 
 ```ts
@@ -30,11 +28,10 @@ interface Flora {
 }
 ```
 
-<hr />
-
-# Features
+## Features
 There are multiple types of feature, determined by the `feature_type` property
 
+## None
 ```ts
 interface Feature {
     feature_type: "none",
@@ -43,8 +40,7 @@ interface Feature {
 ```
 The `none` feature type is used for reducing the chance of other features from spawning
 
-<br />
-
+## Tall Plants
 ```ts
 interface Feature {
     feature_type: "tall_plant",
@@ -55,8 +51,7 @@ interface Feature {
 ```
 The `tall_plant` feature type is used for creating plants out of multiple blocks
 
-<br />
-
+## Tree
 ```ts
 interface Feature {
     feature_type: "tree",
