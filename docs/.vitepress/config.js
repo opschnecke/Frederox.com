@@ -6,8 +6,13 @@ export default {
                 text: "Introduction",
                 items: [
                     { text: "Home Page", link: "/" },
-                    { text: "Introduction", link: "/introduction" },
                     { text: "Our Team", link: "/team" }
+                ]
+            },
+            {
+                "text": "Modding",
+                "items": [
+                    { text: "Custom Biomes", link: "/mods/biome" }
                 ]
             }
         ],
@@ -16,7 +21,7 @@ export default {
             copyright: 'Copyright © 2022-present FrederoxDev'
         },
         nav: [
-            { text: "Cosmos", link: "/introduction" },
+            { text: "Team", link: "/team" },
         ],
         editLink: {
           pattern: "https://github.com/FrederoxDev/Frederox.com/edit/master/docs/:path"
