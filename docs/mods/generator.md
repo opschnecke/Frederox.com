@@ -2,6 +2,10 @@
 
 This section will help you setup the world generator so that you can create custom biomes and planets for your minecraft world
 
+:::danger
+Currently the terrain generator is highly experimental and will constantly have major changes while it is still being developed
+:::
+
 ## Step. 1: Clone the repository
 
 Clone the repository
@@ -23,18 +27,25 @@ Install the latest version of Python then run:
 ```powershell
 pip install amulet-core
 pip install load-bar
+pip install pick
 ```
 
 ## Step. 3: Generate World
 
-1. Create a world inside of minecraft
-2. Activate RP & BP and all experimental toggles
-3. Navigate to your `com.mojang` folder and cut the worlds folder
-4. Paste the worlds folder inside of the generator scripts folder
-5. Rename world folder to `world`
+1. Create a world or choose an existing world and close Minecraft
+2. Run the script using this command
 
 ```powershell
 python Main.py
 ```
 
-6. After the script has finished running, copy the folder back into `com.mojang`
+3. Select the world you have chosen in the select menu
+
+```powershell
+Please select the world you would like to generate:
+
+> Cosmos Generation
+  My World
+```
+
+4. After it has finished you can now open the world in Minecraft
