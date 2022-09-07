@@ -1,9 +1,10 @@
 ---
 layout: home
-
+favicon: /favicon.ico
 hero:
   name: Cosmos
   text: All about space!
+
 
   actions:
     - theme: brand
