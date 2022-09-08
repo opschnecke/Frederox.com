@@ -1,6 +1,4 @@
----
-favicon: /favicon.ico
----
+
 # Biomes
 To register a biome you can create a file in the `Biomes/` folder with the extension `.biome.json`
 

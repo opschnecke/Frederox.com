@@ -1,6 +1,4 @@
----
-favicon: /favicon.ico
----
+
 # Our Team
 
 <VPTeamMembers size="small" :members="members" />
