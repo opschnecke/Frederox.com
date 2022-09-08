@@ -1,3 +1,6 @@
+---
+favicon: /favicon.ico
+---
 # World Generator
 
 This section will help you setup the world generator so that you can create custom biomes and planets for your minecraft world
