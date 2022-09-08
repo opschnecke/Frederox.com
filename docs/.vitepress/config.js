@@ -6,7 +6,6 @@ export default {
         "link",
         { rel: "icon", type: "image/x-icon", href: "/public/favicon.ico" },
       ],
-      // ['link', { rel: 'icon', type: 'image/svg+xml', href: '/path/to/icon.svg' }], for svg
     ],
     sidebar: {
       "/main/": [
